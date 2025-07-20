@@ -4,7 +4,7 @@ This project involves end-to-end analysis of bank loan data using **SQL** for da
 
 ---
 
-## 🧪 SQL Analysis
+##  SQL Analysis
 
 ### 🔍 Key Metrics Extracted:
 
